@@ -8,9 +8,9 @@ Go to the Terminal/Git CMD and copy - past e the following command:
 Or directly click on Clone or Download button and choose to download the ZIP File.
 
 ### Deploying the Extension --
--- Extract the content from the ZIP file
--- Open your Google Chrome browser
--- Clicking on the 3 dots on the top right corner
--- Choose <b> More tools </b> and then Extensions.
+- Extract the content from the ZIP file
+- Open your Google Chrome browser
+- Clicking on the 3 dots on the top right corner
+- Choose <b> More tools </b> and then <b>Extensions</b>.
 
    
