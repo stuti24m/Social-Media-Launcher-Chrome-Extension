@@ -21,4 +21,4 @@ Or directly click on <b>Clone</b> or <b>Download button</b> and choose to downlo
    
 
 That's how this simple social media launcher extension looks like.
-Cheerio 🙋🏻‍♀️
+<br>Cheerio 🙋🏻‍♀️
