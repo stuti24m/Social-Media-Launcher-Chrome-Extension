@@ -13,4 +13,7 @@ Or directly click on Clone or Download button and choose to download the ZIP Fil
 - Clicking on the 3 dots on the top right corner
 - Choose <b> More tools </b> and then <b>Extensions</b>.
 
+
+
+![Launcher ss](https://user-images.githubusercontent.com/51860224/89790821-21391380-db40-11ea-9f20-67694bcb2dca.png)
    
