@@ -19,6 +19,6 @@ Or directly click on <b>Clone</b> or <b>Download button</b> and choose to downlo
 
 ![Launcher ss](https://user-images.githubusercontent.com/51860224/89790821-21391380-db40-11ea-9f20-67694bcb2dca.png)
    
-
+<br>
 That's how this simple social media launcher extension looks like.
 <br>Cheerio 🙋🏻‍♀️
