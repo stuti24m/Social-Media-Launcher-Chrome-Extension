@@ -14,7 +14,7 @@ Or directly click on <b>Clone</b> or <b>Download button</b> and choose to downlo
 - Choose <b> More tools </b> and then <b>Extensions</b>.
 - And tadaa it's done...
 
-## 😄 How the Extension looks like💙 --
+## 😄 How the Extension looks like✨ --
 
 
 ![Launcher ss](https://user-images.githubusercontent.com/51860224/89790821-21391380-db40-11ea-9f20-67694bcb2dca.png)
