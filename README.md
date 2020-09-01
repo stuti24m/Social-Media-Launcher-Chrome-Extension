@@ -12,6 +12,8 @@ Or directly click on <b>Clone</b> or <b>Download button</b> and choose to downlo
 - Open your Google Chrome browser
 - Clicking on the 3 dots on the top right corner
 - Choose <b> More tools </b> and then <b>Extensions</b>.
+- Turn on the Developers mode
+- Load the unpacked zip file
 - And tadaa it's done...
 
 ## 😄 How the Extension looks like✨ --
